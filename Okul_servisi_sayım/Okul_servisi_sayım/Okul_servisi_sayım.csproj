@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D6AFF5AE-B84E-4163-A1EE-6042511BB202}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Okul_servisi_sayım</RootNamespace>
+    <AssemblyName>Okul_servisi_sayım</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admingirisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admingirisi.Designer.cs">
+      <DependentUpon>Admingirisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adminpaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adminpaneli.Designer.cs">
+      <DependentUpon>Adminpaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aracsofor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aracsofor.Designer.cs">
+      <DependentUpon>aracsofor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aracsofordenetim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aracsofordenetim.Designer.cs">
+      <DependentUpon>aracsofordenetim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aracsoforrapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aracsoforrapor.Designer.cs">
+      <DependentUpon>aracsoforrapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baglanti.cs" />
+    <Compile Include="ceaziislemler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ceaziislemler.Designer.cs">
+      <DependentUpon>ceaziislemler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kayitpaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kayitpaneli.Designer.cs">
+      <DependentUpon>Kayitpaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanicigiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanicigiris.Designer.cs">
+      <DependentUpon>Kullanicigiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Girispaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Girispaneli.Designer.cs">
+      <DependentUpon>Girispaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullaniciguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullaniciguncelle.Designer.cs">
+      <DependentUpon>Kullaniciguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullaniciislemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullaniciislemleri.Designer.cs">
+      <DependentUpon>Kullaniciislemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanicipaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanicipaneli.Designer.cs">
+      <DependentUpon>Kullanicipaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ogrencibilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ogrencibilgileri.Designer.cs">
+      <DependentUpon>ogrencibilgileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ogrencikayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ogrencikayit.Designer.cs">
+      <DependentUpon>Ogrencikayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ogrencirapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ogrencirapor.Designer.cs">
+      <DependentUpon>ogrencirapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ogrencilistesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ogrencilistesi.Designer.cs">
+      <DependentUpon>ogrencilistesi.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admingirisi.resx">
+      <DependentUpon>Admingirisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Adminpaneli.resx">
+      <DependentUpon>Adminpaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aracsofor.resx">
+      <DependentUpon>aracsofor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aracsofordenetim.resx">
+      <DependentUpon>aracsofordenetim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aracsoforrapor.resx">
+      <DependentUpon>aracsoforrapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ceaziislemler.resx">
+      <DependentUpon>ceaziislemler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kayitpaneli.resx">
+      <DependentUpon>Kayitpaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanicigiris.resx">
+      <DependentUpon>Kullanicigiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Girispaneli.resx">
+      <DependentUpon>Girispaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullaniciguncelle.resx">
+      <DependentUpon>Kullaniciguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullaniciislemleri.resx">
+      <DependentUpon>Kullaniciislemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanicipaneli.resx">
+      <DependentUpon>Kullanicipaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ogrencibilgileri.resx">
+      <DependentUpon>ogrencibilgileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ogrencikayit.resx">
+      <DependentUpon>Ogrencikayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ogrencirapor.resx">
+      <DependentUpon>ogrencirapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ogrencilistesi.resx">
+      <DependentUpon>ogrencilistesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\Admingirisi.datasource" />
+    <None Include="Properties\DataSources\Adminpanel.datasource" />
+    <None Include="Properties\DataSources\aracsofor.datasource" />
+    <None Include="Properties\DataSources\aracsofordenetim.datasource" />
+    <None Include="Properties\DataSources\aracsoforrapor.datasource" />
+    <None Include="Properties\DataSources\ceaziislemler.datasource" />
+    <None Include="Properties\DataSources\Girispaneli.datasource" />
+    <None Include="Properties\DataSources\Kayitpaneli.datasource" />
+    <None Include="Properties\DataSources\Kullaniciguncelle.datasource" />
+    <None Include="Properties\DataSources\Kullaniciislemleri.datasource" />
+    <None Include="Properties\DataSources\Kullanicipaneli.datasource" />
+    <None Include="Properties\DataSources\Kullanıcıgiriscs.datasource" />
+    <None Include="Properties\DataSources\ogrencibilgileri.datasource" />
+    <None Include="Properties\DataSources\Ogrencikayit.datasource" />
+    <None Include="Properties\DataSources\ogrencilistesi.datasource" />
+    <None Include="Properties\DataSources\ogrencirapor.datasource" />
+    <None Include="Properties\DataSources\Okul_servisi_sayım.Properties.Resources.datasource" />
+    <None Include="Properties\DataSources\Okul_servisi_sayım.Properties.Settings.datasource" />
+    <None Include="Properties\DataSources\Okul_servisi_sayım.Properties.Settings1.datasource" />
+    <None Include="Properties\DataSources\Okul_servisi_sayım.servisotomasyonDataSetTableAdapters.arackontrolTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Okul_servisi_sayım.servisotomasyonDataSetTableAdapters.aracsoforTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Okul_servisi_sayım.servisotomasyonDataSetTableAdapters.avcılarTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Okul_servisi_sayım.servisotomasyonDataSetTableAdapters.beylikduzuTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Okul_servisi_sayım.servisotomasyonDataSetTableAdapters.devamsizlikaTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Okul_servisi_sayım.servisotomasyonDataSetTableAdapters.devamsizlikbTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Okul_servisi_sayım.servisotomasyonDataSetTableAdapters.KayitolTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Okul_servisi_sayım.servisotomasyonDataSetTableAdapters.kullaniciTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Okul_servisi_sayım.servisotomasyonDataSetTableAdapters.ogrencikayitTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Okul_servisi_sayım.servisotomasyonDataSetTableAdapters.TableAdapterManager+UpdateOrderOption.datasource" />
+    <None Include="Properties\DataSources\Okul_servisi_sayım.servisotomasyonDataSetTableAdapters.TableAdapterManager.datasource" />
+    <None Include="Properties\DataSources\Program.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.arackontrolDataTable.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.arackontrolRow.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.arackontrolRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.arackontrolRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.aracsoforDataTable.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.aracsoforRow.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.aracsoforRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.aracsoforRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.avcılarDataTable.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.avcılarRow.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.avcılarRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.avcılarRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.beylikduzuDataTable.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.beylikduzuRow.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.beylikduzuRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.beylikduzuRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.devamsizlikaDataTable.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.devamsizlikaRow.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.devamsizlikaRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.devamsizlikaRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.devamsizlikbDataTable.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.devamsizlikbRow.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.devamsizlikbRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.devamsizlikbRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.KayitolDataTable.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.KayitolRow.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.KayitolRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.KayitolRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.kullaniciDataTable.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.kullaniciRow.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.kullaniciRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.kullaniciRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.ogrencikayitDataTable.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.ogrencikayitRow.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.ogrencikayitRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\servisotomasyonDataSet.ogrencikayitRowChangeEventHandler.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SqlServer.SqlLocalDB.11.1">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2012 Express LocalDB</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

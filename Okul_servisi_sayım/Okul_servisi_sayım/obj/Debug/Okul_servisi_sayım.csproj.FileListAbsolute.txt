@@ -1,0 +1,96 @@
+c:\users\ömer faruk\documents\visual studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\bin\Debug\Okul_servisi_sayım.exe.config
+c:\users\ömer faruk\documents\visual studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\bin\Debug\Okul_servisi_sayım.exe
+c:\users\ömer faruk\documents\visual studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\bin\Debug\Okul_servisi_sayım.pdb
+c:\users\ömer faruk\documents\visual studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.csprojResolveAssemblyReference.cache
+c:\users\ömer faruk\documents\visual studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Admingirisi.resources
+c:\users\ömer faruk\documents\visual studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kayitpaneli.resources
+c:\users\ömer faruk\documents\visual studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kullanıcıgiriscs.resources
+c:\users\ömer faruk\documents\visual studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Girispaneli.resources
+c:\users\ömer faruk\documents\visual studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Properties.Resources.resources
+c:\users\ömer faruk\documents\visual studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.csproj.GenerateResource.Cache
+c:\users\ömer faruk\documents\visual studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.exe
+c:\users\ömer faruk\documents\visual studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.pdb
+C:\Users\Ömer Faruk\Documents\Visual Studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Ogrencikayit.resources
+C:\Users\Ömer Faruk\Documents\Visual Studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Adminpanel.resources
+C:\Users\Ömer Faruk\Documents\Visual Studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.ogrencilistesi.resources
+C:\Users\Ömer Faruk\Documents\Visual Studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kullaniciislemleri.resources
+C:\Users\Ömer Faruk\Documents\Visual Studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.ogrencibilgileri.resources
+C:\Users\Ömer Faruk\Documents\Visual Studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.ceaziislemler.resources
+C:\Users\Ömer Faruk\Documents\Visual Studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kullanicipaneli.resources
+C:\Users\Ömer Faruk\Documents\Visual Studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.aracsofor.resources
+C:\Users\Ömer Faruk\Documents\Visual Studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.ogrencirapor.resources
+C:\Users\Ömer Faruk\Documents\Visual Studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.aracsoforrapor.resources
+C:\Users\Ömer Faruk\Documents\Visual Studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.aracsofordenetim.resources
+C:\Users\Ömer Faruk\Documents\Visual Studio 2013\Projects\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kullaniciguncelle.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\bin\Debug\Okul_servisi_sayım.exe.config
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.exe
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.pdb
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\bin\Debug\Okul_servisi_sayım.exe
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\bin\Debug\Okul_servisi_sayım.pdb
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.csprojResolveAssemblyReference.cache
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Admingirisi.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Adminpanel.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.aracsofor.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.aracsofordenetim.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.aracsoforrapor.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.ceaziislemler.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kayitpaneli.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kullanıcıgiriscs.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Girispaneli.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kullaniciguncelle.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kullaniciislemleri.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kullanicipaneli.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.ogrencibilgileri.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Ogrencikayit.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.ogrencirapor.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Properties.Resources.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.ogrencilistesi.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.csproj.GenerateResource.Cache
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\bin\Debug\Okul_servisi_sayım.exe.config
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.exe
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.pdb
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\bin\Debug\Okul_servisi_sayım.exe
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\bin\Debug\Okul_servisi_sayım.pdb
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.csprojResolveAssemblyReference.cache
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Admingirisi.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Adminpanel.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.aracsofor.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.aracsofordenetim.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.aracsoforrapor.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.ceaziislemler.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kayitpaneli.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kullanıcıgiriscs.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Girispaneli.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kullaniciguncelle.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kullaniciislemleri.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kullanicipaneli.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.ogrencibilgileri.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Ogrencikayit.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.ogrencirapor.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Properties.Resources.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.ogrencilistesi.resources
+C:\Users\Ömer Faruk\Desktop\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.csproj.GenerateResource.Cache
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\bin\Debug\Okul_servisi_sayım.exe.config
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.exe
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.pdb
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\bin\Debug\Okul_servisi_sayım.exe
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\bin\Debug\Okul_servisi_sayım.pdb
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.csprojResolveAssemblyReference.cache
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Admingirisi.resources
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Adminpanel.resources
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.aracsofor.resources
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.aracsofordenetim.resources
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.aracsoforrapor.resources
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.ceaziislemler.resources
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kayitpaneli.resources
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kullanıcıgiriscs.resources
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Girispaneli.resources
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kullaniciguncelle.resources
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kullaniciislemleri.resources
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Kullanicipaneli.resources
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.ogrencibilgileri.resources
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Ogrencikayit.resources
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.ogrencirapor.resources
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.Properties.Resources.resources
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.ogrencilistesi.resources
+C:\Users\Ömer Faruk\Desktop\NTP\Okul_servisi_sayım_asım\Okul_servisi_sayım\obj\Debug\Okul_servisi_sayım.csproj.GenerateResource.Cache

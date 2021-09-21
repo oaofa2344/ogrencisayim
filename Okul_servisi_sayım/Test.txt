@@ -1,0 +1,1 @@
+Server=DESKTOP-LDHKR5A;DataBase=servisotomasyon;Trusted_Connection=True

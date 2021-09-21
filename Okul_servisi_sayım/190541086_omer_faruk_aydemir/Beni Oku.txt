@@ -1,0 +1,11 @@
+Admin Id: omercipp
+Admin Şifre: efendimm1
+
+kullanıcı ıd: gonenc
+kullanıcı şifre: 123
+
+Lütfen C: Klasörünüzün içine Test.txt dosyasını atın ve içindeki Server kısmına kendi Sql Serverinizi yazın.
+Tablolar klasörünün içindeki tabloları setupu kurmadan öncesinde SQL inize kurun.
+Debug Klasörünün içinden setup dosyasını kurup masaüstüne gelen 190541086_omer_faruk_aydemir.exe adlı klasörü çalıştırıp girin.
+
+Ömer Faruk Aydemir  190541086
